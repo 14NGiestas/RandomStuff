@@ -1,0 +1,21 @@
+Pwned                                       #https://en.wikipedia.org/wiki/Pwn
+
+Like a virus, you are spreading in my mind, # Virus,Ok? you are everywhere, ok?
+TearDrops are leaving me blind.             # http://powhack.blogspot.com.br/2014/08/teardrop-attackos-specific-dos-attacks.html
+My Heartbleed, exposing my flaws,           # http://xkcd.com/1354/
+Breaking what used to be my law.            # "I 'll never fall in love"... bullshit.
+
+You hacked me without any Shell,            # https://en.wikipedia.org/wiki/Unix_shell
+And my Security System gone away.           # Hacked by D4N1_L
+You are infecting all my cells...           # Cells, I'm human... I guess...
+But "It's not gonna happen" you say.        # "..."
+
+I had compressed every feeling...           # tar -cf TheReasonsIloveU.tar your_smile.png your_voice.mp3 your_hair.jpg you
+Now everything came in a Zip Bomb!          # https://en.wikipedia.org/wiki/Zip_bomb
+Kernel Panic: Am I dreaming?                # https://en.wikipedia.org/wiki/Kernel_panic
+Ok, ok, I'll stay calm...                   # At least outside...
+
+Please, SQL Inject me!                      # https://en.wikipedia.org/wiki/SQL_injection
+DROP TABLE of some sort...                  # DROP TABLE `me`.`you`;
+It's a Infinity Loop! Ctrl + C!             # https://en.wikipedia.org/wiki/Infinite_loop
+Please, help me to abort!                   # https://en.wikipedia.org/wiki/Control-C#In_command-line_environmentsa
